@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577645728 source:c:\users\lem_l\onedrive\masaüstü\yeni klasör\yeni klasör\sehirler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
